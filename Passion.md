@@ -24,5 +24,5 @@ In future I want to build my own games with AI and give the players and myself t
 At last by not stretching the topic much I want to say that, 
 you never know your future, if you get demotivated in some time of your life then make it a chapter of your book and start typing more but never stop, that is what passionate people do.
 
-Thanks You,
+Thank You,
 Aayon
