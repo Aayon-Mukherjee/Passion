@@ -1,18 +1,38 @@
+*I like to use the word passion interchangeably with words like determination, conviction, and love. Passion is a strong desire that can get you to do amazing things.*
+
+*Passion is an emotion to be acted upon. Without action, passion yields no worthwhile results. Passion is the fuel in the fire of action. When you have passion for something, you love it even when you hate it.*
+
+**So what is passion? How do you recognize your passion, and how do you put it to good use?**
+
+---
+# What Is Passion?
+<img align="right" alt="Coding" width="300" src="https://karinasussanto.files.wordpress.com/2013/05/passion.jpeg?w=298&h=222">
+A desire fueled by passion will bring about the greatest results in life.
+
+I like to skateboard, but I don’t have the determination to push myself through broken bones and hospital visits. That’s why I’m not as good as I could be. I don’t have a passion for it.
+
+Passion can push you through difficult times because you don’t care what it takes to become better. We all have the ability to create whatever kind of life we want. The secret to living the dream is hidden in our passions and what we do because of them.
+
+## My Story
 The definition of passion for me is a powerful emotion. 
 Passion can drive people to do the best things in life, or it can drive people to do the most terrible possible things in life.
 My passion is what I enjoy the most and I enjoy playing FPS games like Valorant and also story games like assasing creed series.
 I was pretty good in my gaming skills but then I thought why not build my own game?
 I started searching Google like most people do.
+
 Initially I thought that it will be pretty easy but when I started to develop my own game, the things were not good.
 I started building my game with Maya and then Blender because it was a little less complex than Maya.
 I tried my level best, watched youtube videos but failed afterall.
 I was very demotivated but then one day I thought if not a 3d game, then why not a 2d game afterall good things take their own time.
 I made some of my own models from Adobe Illustrator and Adobe Photoshop.
+
 Then I started giving them life by adding some actions to their body with Adobe Character Animator.
 Obviously without a voice a charcter is useless, I gave then some voice-overs with Adobe Audition.
 I was ready with 90% of the pieces but I never thought that I would require a program to tie all the character of my game together.
 I literally came down from 90% to 1%.
 After that day I started learning programmiimng languages like C, C++ and Python.
+
+<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/MvovQGsMBY9H2/giphy.gif">
 With the help of internet I was able to build my very first 2d game of Classic Block Falling.
 It may seem a very small idea but for me it was a very big accomplishment.
 I surfed internet again on how to publish a game and also how to make it more professional.
@@ -24,5 +44,18 @@ In future I want to build my own games with AI and give the players and myself t
 At last by not stretching the topic much I want to say that, 
 you never know your future, if you get demotivated in some time of your life then make it a chapter of your book and start typing more but never stop, that is what passionate people do.
 
-Thank You,
+---
+---
+
+
+
+<h3 align="left">Connect with Me :</h3>
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+</p>
+
+Thank you,
+
 Aayon
